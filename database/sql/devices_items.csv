@@ -1,0 +1,10 @@
+﻿id ,device_id,accept,accept_min,accept_max,exam_item,desc,unit
+1,1,validation,,,設備運轉狀況異音與偏移,,
+2,2,validation,,,設備運轉狀況異音與偏移,,
+3,3,numeric,160.0 ,180.0 ,主蒸氣集管溫度 , 0404-TG03,℃
+4,3,numeric,6.8 ,7.4 ,主蒸氣集管壓力 , 0404-PG03,kgf/cm2
+5,3,numeric,25.0 ,55.0 ,冷卻水出口溫度 , 0402-TG01,℃
+6,3,numeric,2.0 ,6.0 ,冷卻水出口壓力 , 0402-PG03,kgf/cm2
+7,3,numeric,2.0 ,7.0 ,蒸汽壓力 , 0404-PG07,kgf/cm2
+8,4,numeric,7.8 ,8.2 ,鍋爐壓力紀錄 , 0401-PG01,kgf/cm2
+9,4,numeric,-20.0 ,20.0 ,鍋爐液位紀錄 , 0401-LG01,
